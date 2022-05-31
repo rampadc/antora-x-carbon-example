@@ -10,7 +10,7 @@ content:
       start_path: docs
 ui:
   bundle:
-    url: https://github.com/rampadc/antora-x-carbon/releases/download/main-750a020/ui-bundle.zip
+    url: https://github.com/rampadc/antora-x-carbon/releases/download/main-ac0e20d/ui-bundle.zip
     snapshot: true
   supplemental_files:
     - path: ui.yml
