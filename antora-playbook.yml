@@ -11,7 +11,7 @@ content:
 ui:
   bundle:
     url: https://github.com/rampadc/antora-x-carbon/releases/download/main-a6acadf/ui-bundle.zip
-    snapshot: false
+    snapshot: true
   supplemental_files:
     - path: ui.yml
       contents: |
