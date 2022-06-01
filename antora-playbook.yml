@@ -18,3 +18,7 @@ ui:
         static_files:
         - .nojekyll
     - path: .nojekyll
+
+asciidoc:
+  attributes:
+    experimental: true
